@@ -11,7 +11,7 @@
 
 - Klik (File > New File) untuk membuat File Baru
 
-![Gambar 2](Screenshots/ss2.jpg)
+![Gambar 2](Screenshots/ss2.png)
 
 - Isi file tersebut dengan Program kalian, Disini saya membuat Program Penginputan Data
 
@@ -19,7 +19,7 @@
 
 - Setelah itu Save Program kalian dengan klik (File > Save) atau tekan (CTRL + S)
 
-![Gambar 4](Screenshots/ss4.jpg)
+![Gambar 4](Screenshots/ss4.png)
 
 -Membuat folder baru dan berikan nama file tersebut dengan ekstensi .py
 
@@ -27,7 +27,7 @@
 
 - Klik (Run > Run Module) untuk menjalankan Programnya 
 
-![Gambar 6](Screenshots/ss6.jpg)
+![Gambar 6](Screenshots/ss6.png)
 
 ### INPUT
 - Masukan data kalian
