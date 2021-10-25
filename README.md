@@ -32,12 +32,12 @@
 ### INPUT
 - Masukan data kalian
 
-![Gambar 7](Screenshots/ss7.png)
+![Gambar 7](Screenshots/ss7.PNG)
 
 ### OUTPUT
 - Hasil
 
-![Gambar 8](Screenshots/ss8.png)
+![Gambar 8](Screenshots/ss8.PNG)
 
 
 - Selesai
