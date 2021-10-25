@@ -37,7 +37,7 @@
 ### OUTPUT
 - Hasil
 
-![Gambar 8](Screenshots/ss8.png)
+
 
 - Selesai
 
